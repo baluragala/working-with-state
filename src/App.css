@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 650px;
+}
+
+.time {
+  max-height: 50%;
+  color: salmon;
+  font-size: 4em;
+}
